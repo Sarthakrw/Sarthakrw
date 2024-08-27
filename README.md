@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Aspiring Machine Learning Research Scientist !
+I'm an Aspiring ML Research Scientist !
 
 
 ## 🌐 Socials:
